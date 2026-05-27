@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvalidate",
+        "uuid": 8428455,
+        "checksum": "rdhgy"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
